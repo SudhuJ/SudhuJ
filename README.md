@@ -7,4 +7,4 @@ I study ECE and create 3D assets.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 
-Thank you for visiting my profile
+Thank you for visiting my profile.
