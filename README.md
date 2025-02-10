@@ -1,4 +1,4 @@
-# Hello
+Hello
 
 I study ECE and create 3D assets.
 
