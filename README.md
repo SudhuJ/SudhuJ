@@ -1,6 +1,6 @@
 ## Hello.
 
-I study ECE and am interested in 3D.
+I like Graphics and Geometry Processing.
 
 
 <!--
